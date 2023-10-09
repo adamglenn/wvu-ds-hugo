@@ -1,0 +1,7 @@
+{{ range .Params.components }}
+  {{ if eq .component "hero" }}
+    {{- partial "hero.html" . }}
+  {{ else if eq .component "page-collection" }}
+    {{- partial "page-collection" (dict "sitepages" $.Site.Pages "label" .label) }}
+  {{ end }}
+{{ end }}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on My New Hugo Site</title>
+    <link>https://example.org/pages/</link>
+    <description>Recent content in Pages on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://example.org/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accessibility</title>
+      <link>https://example.org/pages/accessibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pages/accessibility/</guid>
+      <description> My Big Ass Headline </description>
+    </item>
+    
+    <item>
+      <title>Content Strategy</title>
+      <link>https://example.org/pages/content-strategy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pages/content-strategy/</guid>
+      <description>Content.</description>
+    </item>
+    
+    <item>
+      <title>Developers</title>
+      <link>https://example.org/pages/developers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pages/developers/</guid>
+      <description>Content.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://example.org/pages/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pages/faq/</guid>
+      <description>Content.</description>
+    </item>
+    
+    <item>
+      <title>My First Page</title>
+      <link>https://example.org/pages/my-first-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pages/my-first-page/</guid>
+      <description> My header text. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Continue Reading </description>
+    </item>
+    
+    <item>
+      <title>Request a Site</title>
+      <link>https://example.org/pages/request-a-site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pages/request-a-site/</guid>
+      <description>Content.</description>
+    </item>
+    
+    <item>
+      <title>Resources and Training</title>
+      <link>https://example.org/pages/resources-and-training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pages/resources-and-training/</guid>
+      <description>My Resources and Training Summary.</description>
+    </item>
+    
+  </channel>
+</rss>

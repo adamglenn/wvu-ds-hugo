@@ -1,0 +1,9 @@
+{{ define "header" }}{{ end }}
+{{ define "main" }}
+  {{ partial "components-renderer.html" . }}
+  <div class="bg-light py-5">
+    <div class="container">
+      {{ .Content }}
+    </div>
+  </div>
+{{ end }}

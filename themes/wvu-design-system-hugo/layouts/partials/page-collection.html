@@ -1,0 +1,15 @@
+{{ $myLabel := .label }}
+{{ $pages := where .sitepages ".Params.tags" "intersect" (slice $myLabel) }}
+<section class="py-5">
+  <div class="container wvu-z-index-content">
+    <h2 id="page-collection-1-label" class="display-3 wvu-shout text-wvu-blue">Page Collection Headline</h2>
+    <p class="h3 helvetica-neue-light text-wvu-blue mb-4">Subhead goes here.</p>    
+    <div class="row justify-content-start">
+      {{ range $pages }}
+        <div class="col-sm-6 col-lg-3 mb-4">
+          {{ .Render "summary-with-image" }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</section>

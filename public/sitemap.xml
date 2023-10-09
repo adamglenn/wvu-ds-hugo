@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.org/pages/accessibility/</loc>
+  </url><url>
+    <loc>https://example.org/people/adam-glenn/</loc>
+  </url><url>
+    <loc>https://example.org/people/nathan-reckart/</loc>
+  </url><url>
+    <loc>https://example.org/categories/</loc>
+  </url><url>
+    <loc>https://example.org/pages/content-strategy/</loc>
+  </url><url>
+    <loc>https://example.org/pages/developers/</loc>
+  </url><url>
+    <loc>https://example.org/pages/faq/</loc>
+  </url><url>
+    <loc>https://example.org/</loc>
+  </url><url>
+    <loc>https://example.org/tags/home-feature/</loc>
+  </url><url>
+    <loc>https://example.org/pages/my-first-page/</loc>
+  </url><url>
+    <loc>https://example.org/pages/</loc>
+  </url><url>
+    <loc>https://example.org/people/</loc>
+  </url><url>
+    <loc>https://example.org/pages/request-a-site/</loc>
+  </url><url>
+    <loc>https://example.org/pages/resources-and-training/</loc>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
+  </url>
+</urlset>
